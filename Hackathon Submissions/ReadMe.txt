@@ -1,5 +1,8 @@
 Please upload your submissions for the hackathon here.
-When you upload, please include a ReadMe file which includes the following:
+
+All Projects should be zipped up in .zip format.  
+
+When you upload, please also include a ReadMe file which includes the following:
   1.  Team Name and Team members who participated.
   2.  Which Challenge you are trying to address (Patient Matching or Deep Variant)
   3.  Set up instructions (What programming language is this in?  How to set up your project to verify your work?)
