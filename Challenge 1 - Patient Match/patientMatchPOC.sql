@@ -347,15 +347,3 @@ GROUP BY
 	Confidence
 ORDER BY
 	Confidence DESC
-	
-\
-
-
-
-
-
-
-
-
-
-
