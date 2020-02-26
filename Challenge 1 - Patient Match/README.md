@@ -1,4 +1,4 @@
-# Patient Matching
+# Patient Matching Challenge
 
 Here is the Proof of Concept Patient Matching algorithm by Office Ally.  In our limited testing, it has shown to be at least 90% accurate.
 

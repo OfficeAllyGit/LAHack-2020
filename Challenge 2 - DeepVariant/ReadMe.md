@@ -1,4 +1,4 @@
-# Challenge
+# Deep Variant Challenge
 Set up, install Deep Variant, and use its identified SNVs to find a match for hypertension in the journal.
 
 ## Steps
