@@ -2,7 +2,7 @@
 Set up, install Deep Variant, and use its identified SNVs to find a match for hypertension in the journal.
 
 ## Steps
-In order to complete this, you should perform the following Steps:
+In order to complete this, please perform the following steps:
 
 1. Pull down the deepvariant source code:
 
