@@ -4,11 +4,11 @@ Set up, install DeepVariant, and use its identified SNVs to find a match for hyp
 ## Steps
 In order to complete this, please perform the following steps:
 
-1. Pull down the DeepVariant source code:
+1. Pull down the DeepVariant source code and set up DeepVariant on your machine:
 
     https://github.com/google/deepvariant/
 
-2. Read the case study here and perform the same actions step by step (includes DeepVariant Set up):
+2. Read the case study here and perform the same actions step by step:
 
     https://github.com/google/deepvariant/blob/r0.9/docs/deepvariant-case-study.md
 
