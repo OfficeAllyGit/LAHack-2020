@@ -8,7 +8,7 @@ In order to complete this, please perform the following steps:
 
     https://github.com/google/deepvariant/
 
-2. Read the case study here and perform the same actions step by step:
+2. Read the case study here and perform the same actions step by step (includes DeepVariant Set up):
 
     https://github.com/google/deepvariant/blob/r0.9/docs/deepvariant-case-study.md
 
