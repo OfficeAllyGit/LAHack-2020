@@ -7,6 +7,8 @@ In order to complete this, please perform the following steps:
 1. Pull down the DeepVariant source code and set up DeepVariant on your machine:
 
     https://github.com/google/deepvariant/
+    
+   NOTE:  Do not use the google cloud or other paid versions!  We are looking at the local installation version only with Docker.
 
 2. Read the case study here and perform the same actions step by step:
 
