@@ -1,2 +1,2 @@
-# HackTech-2020
+# LA Hacks-2020
 Includes Challenge Info and Final submissions.
