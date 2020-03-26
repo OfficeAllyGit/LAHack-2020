@@ -4,7 +4,7 @@ Here is the Proof of Concept Patient Matching algorithm by Office Ally.  In our 
 
 Utilizing this and the Test Patient Data provided, perform the following:
 
-1. Store the CSV data into a database.  It can be any database that you feel comfortable working with.  This data was extracted from SQL Server.
+1. Store the CSV data into a database.  It can be any database that you feel comfortable working with.  This data was extracted from Microsoft SQL Server.
 2. Once the database is created and patient data imported, you can use the SQL proof of concept provided to run some tests to verify the accuracy of the current algorithm.
     -In the CSV file, the Group ID shows which patients you should be matching together - aka, all the patients in group 1 is the same person.
     -You'll notice a lot of the data looks similar - aka Group ID 2 looks like Group ID 1.  This is a false positive - Group ID 2 should not be Group ID 1.
