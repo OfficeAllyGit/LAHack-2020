@@ -1,4 +1,4 @@
-# Hackathon Submissions
+# Hackathon Submissions FAQ
 NOTE: Because we have some issues with uploading directly to GitHub, we are asking you upload your project to your own GitHub page, and then providing a link to the project.  These projects must be in their entirety (meaning Office Ally can take your code and spin it up).
 
 ## Submission Requirements
