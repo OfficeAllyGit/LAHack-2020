@@ -1,7 +1,11 @@
 # Patient Matching Challenge
 
-Here is the Proof of Concept Patient Matching algorithm by Office Ally.  In our limited testing, it has shown to be at least 90% accurate.
+Office Ally is currently working on an algorithm which could match Patient data from various sources to identify whether it is the same patient.  We would like hackers to come up with creative ways to tackle this challenge, and achieve as close to 100% accuracy as possible.  We have provided a sample list of patients for hackers to check their accuracy against.  
 
+To be considered eligible for the prize, your solution must achieve at least 90% accuracy (which our sample SQL code does).  Hardcoding will not be eligible.
+
+
+# Steps
 Utilizing this and the Test Patient Data provided, perform the following:
 
 1. Store the CSV data into a database.  It can be any database that you feel comfortable working with.  This data was extracted from Microsoft SQL Server.
