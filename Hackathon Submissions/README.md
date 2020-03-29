@@ -13,6 +13,7 @@ When you send us your GitHub link, please also include a README.md file which in
 3. Set up instructions (What programming language is this in?  How to set up your project to verify your work?)
 4. Proof of concept steps (How can we replicate your steps to achieve your challenge?)
 5. Contact Information if we have any further questions.
+6. Devpost link (just in case we get mixed up in the slack channel)
 
 ### Markdown Simple Template
 Here is a template to use to get a markdown document started, please feel free to expand on it
