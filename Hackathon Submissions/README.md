@@ -2,12 +2,10 @@
 NOTE: Because we have some issues with uploading directly to GitHub, we are asking you upload your project to your own GitHub page, and then providing a link to the project.  These projects must be in their entirety (meaning Office Ally can take your code and spin it up).
 
 ## Submission Requirements
-All Projects should be zipped up in .zip format.  
-
 When you upload, please also include a README.md file which includes the following:
 
 1. Team Name and Team members who participated.
-2. Which Challenge you are trying to address (Patient Matching or Deep Variant)
+2. Which Challenge you are trying to address (Patient Matching or Deep Variant, or both.  If both, please separate the projects into different folders and specify which folder is for which challenge)
 3. Set up instructions (What programming language is this in?  How to set up your project to verify your work?)
 4. Proof of concept steps (How can we replicate your steps to achieve your challenge?)
 5. Contact Information if we have any further questions.
